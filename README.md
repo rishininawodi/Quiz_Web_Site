@@ -17,5 +17,5 @@
 <h3>Features:</h3>
 <ul>
   <li>Responsive</li>
-  <li>Giving Quize correct percentage</li>
+  <li>Giving Quize score percentage</li>
 </ul>
